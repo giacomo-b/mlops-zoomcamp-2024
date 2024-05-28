@@ -129,8 +129,8 @@ Tip 2: to register the model you can use the method `mlflow.register_model` and 
 
 What is the test RMSE of the best model?
 
-[ ] 5.060
-[x] 5.567
+[x] 5.060
+[ ] 5.567
 [ ] 6.061
 [ ] 6.568
 
