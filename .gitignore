@@ -5,6 +5,11 @@
 *.parquet
 *.pkl
 
+# MLflow
+artifacts/
+mlruns/
+*.db
+
 # macOS
 .DS_Store
 
